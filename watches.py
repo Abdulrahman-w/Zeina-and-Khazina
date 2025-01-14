@@ -240,7 +240,7 @@ st.markdown("""
 ### بعد دراسة البيانات وخصائص الساعات، تبين أن قيمة الساعة تختلف بناءً على العوامل التالية:
 """)
 
-st.image("feature.png", use_column_width=True)
+st.image("feature.png", use_container_width=True)
 
 
 
