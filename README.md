@@ -1,2 +1,2 @@
 # تحليل سوق الساعات الفاخرة ⌚🔍
-## [زينة وخزينة](https://drive.google.com/drive/folders/1MEL3hZiofg_4rksTD8txyPIlGYkz8NYU?usp=drive_link)
+## [زينة وخزينة](https://zeina-and-khazina-uu3nhwftjsum7epwwqt9vf.streamlit.app/)
